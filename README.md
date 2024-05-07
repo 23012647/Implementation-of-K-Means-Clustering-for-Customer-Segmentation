@@ -66,23 +66,29 @@ plt.title("Customer Segments")
 ## Output:
 
 data.head() function
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/6e5299f4-6f89-4c71-8bce-39f38673b955)
 
 data.info()
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/10c17bc7-612b-441a-a7e4-16e9e9fecf34)
 
 data.isnull().sum() function
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/5108197c-455b-4ba1-8420-db0a05935e50)
 
 Elbow method Graph
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/a7df9c2c-d26e-45e8-b5d4-fbcf890f0625)
 
 KMeans clusters
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/255661ef-85c2-4382-8b83-d159e05d1e00)
 
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/77bfaee8-fb1e-485a-a46c-bf6e35d009ba)
 
 Customer segments Graph
+
 ![image](https://github.com/23012647/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/160568857/fb70157f-8859-494e-af78-ecd0e2a63455)
 
 
